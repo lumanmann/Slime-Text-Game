@@ -1,0 +1,1 @@
+{"maxHp":1000,"skill":"heal","name":"a","eatNum":5,"atk":200,"maxMp":500,"type":"Mage","skillRate":30}

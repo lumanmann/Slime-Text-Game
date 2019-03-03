@@ -1,0 +1,1 @@
+[{"mp":0,"name":"Apple","hp":0,"atk":0,"skillRate":50},{"mp":0,"name":"Candy","hp":40,"atk":0,"skillRate":10},{"mp":40,"name":"Rice","hp":10,"atk":10,"skillRate":20},{"mp":10,"name":"Pasta","hp":50,"atk":0,"skillRate":10},{"mp":20,"name":"Beef","hp":20,"atk":50,"skillRate":0},{"mp":50,"name":"Pie","hp":20,"atk":0,"skillRate":10}]

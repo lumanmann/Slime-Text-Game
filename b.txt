@@ -1,0 +1,1 @@
+{"maxHp":1000,"skill":"slash","name":"b","eatNum":5,"atk":200,"maxMp":500,"type":"Warrior","skillRate":30}

@@ -1,0 +1,1 @@
+{"maxHp":1000,"skill":"buff","name":"d","eatNum":4,"atk":300,"maxMp":300,"type":"Warrior","skillRate":80}
